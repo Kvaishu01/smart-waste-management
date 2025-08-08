@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+tensorflow
+opencv-python
+numpy
+pandas
+scikit-learn
+pillow
+requests
